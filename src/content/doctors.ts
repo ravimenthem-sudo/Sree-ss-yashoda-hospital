@@ -90,7 +90,6 @@ export const doctors: Doctor[] = [
       'High-Risk Pregnancy'
     ],
     bio: 'Dr. R. Swetha is a leading Gynaecologist and Obstetrician at Sree SS Yashoda Hospital, Anantapur (APMC: FMR 105333). Holding MS OBG, she provides comprehensive care for women\'s health, pregnancy management, and gynaecological surgeries.',
-    photo: '/assets/doctors/doctor-swetha.png',
     photoAlt: 'Portrait of Dr. R. Swetha, Gynaecologist & Obstetrician',
     appointmentLabel: 'Book with Dr. Swetha',
   },
